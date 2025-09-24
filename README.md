@@ -6,6 +6,9 @@
 
 » E para tratar erros do sistema ultilizamos a biblioteca Notiejs. Link: https://github.com/jaredreich/notie
 
+» E para salvar as informações de lista de filmes do usuário, esta sendo armazenada no localStorage do navegador, sem data de expirar.
+
 » Deploy do projeto foi feito no servidor Netlify.
-» Link: 
+
+» Link: https://filme-list.netlify.app
 
