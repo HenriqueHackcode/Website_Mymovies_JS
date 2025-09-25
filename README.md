@@ -2,9 +2,9 @@
 
 » A ideia do projeto é proporcionar para o usuário um site que armazena uma lista desejada, de filmes para assistir.
 
-» Para obter as informações dos dados de qualquer filme, estamos ultilizando a API - OMDb. Link-API: https://www.omdbapi.com
+» Para obter as informações dos dados de qualquer filme, estamos utilizando a API - OMDb. Link-API: https://www.omdbapi.com
 
-» E para tratar erros do sistema ultilizamos a biblioteca Notiejs. Link: https://github.com/jaredreich/notie
+» E para tratar erros do sistema foi utilizado a biblioteca Notiejs. Link: https://github.com/jaredreich/notie
 
 » E para salvar as informações de lista de filmes do usuário, esta sendo armazenada no localStorage do navegador, sem data de expirar.
 
